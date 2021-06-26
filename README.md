@@ -4,5 +4,5 @@
 <p>TrackingJs: https://trackingjs.com/</p>
 <p>faceapi: https://github.com/justadudewhohacks/face-api.js/</p>
 
-<img src="/img/telaInicio.png" alt="talaInicio">
+<img src="../img/telaInicio.png" alt="talaInicio">
 
